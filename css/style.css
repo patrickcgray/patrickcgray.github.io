@@ -215,7 +215,7 @@ img { max-width: 100%; }
   transition: all 0.3s;
 }
 .logo-nav {
-  padding: 6px 0 10px 0;
+  padding: 3px 0 5px 0;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
@@ -522,6 +522,7 @@ p {
   position: absolute;
   top: 0;
   left: 0;
+  border-bottom: 3px solid black;
 }
 .hero-content{
   position: absolute;
