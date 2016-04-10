@@ -63,7 +63,7 @@ body {
 }
 a {
   color: #2f2f2f;
-  /*text-decoration: none;*/
+  text-decoration: underline;
   transition: ease .6s;
   -webkit-transition: ease .6s;
   -moz-transition: ease .6s;
