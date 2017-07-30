@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is Patrick Gray"],
+        strings: ["My name is Patrick Gray"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
