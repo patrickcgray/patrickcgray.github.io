@@ -1,0 +1,17 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "latitude",
+        "longitude"
+    ],
+    "_ChunkSizes": [
+        1,
+        50,
+        50
+    ],
+    "coordinates": "time latitude longitude ",
+    "grid_mapping": "crs",
+    "long_name": "Absolute geostrophic velocity: meridian component",
+    "standard_name": "surface_geostrophic_northward_sea_water_velocity",
+    "units": "m/s"
+}

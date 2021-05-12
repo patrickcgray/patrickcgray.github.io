@@ -1,0 +1,18 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "latitude",
+        "longitude"
+    ],
+    "_ChunkSizes": [
+        1,
+        50,
+        50
+    ],
+    "comment": "The sea level anomaly is the sea surface height above mean sea surface; it is referenced to the [1993, 2012] period; see the product user manual for details",
+    "coordinates": "time latitude longitude ",
+    "grid_mapping": "crs",
+    "long_name": "Sea level anomaly",
+    "standard_name": "sea_surface_height_above_sea_level",
+    "units": "m"
+}
