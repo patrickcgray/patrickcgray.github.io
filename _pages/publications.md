@@ -7,8 +7,12 @@ redirect_from:
   - /publications.html
 ---
 
-19.   Gray P.C., Boss E., Bourdin G., Mission Microbiome AtlantECO, Tara Pacific Consortium,  Lehahn Y., Emergent patterns of patchiness reflect decoupling between ocean physics and biology. In press Nature Communications. BioRxiv: DOI: [10.1101/2024.05.24.595779](doi.org/10.1101/2024.05.24.595779) [pdf](paper1.pdf)
-18.   Gray P.C., Boss E., Prochaska J.X., Kerner H.R., Begouen-Demeaux, C., Lehahn Y. The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. Oceanography DOI: 10.5670/oceanog.2024.511
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+19.   Gray P.C., Boss E., Bourdin G., Mission Microbiome AtlantECO, Tara Pacific Consortium,  Lehahn Y., Emergent patterns of patchiness reflect decoupling between ocean physics and biology. In press Nature Communications. BioRxiv: DOI: [10.1101/2024.05.24.595779](www.doi.org/10.1101/2024.05.24.595779) / [pdf](files/paper1.pdf)
+18.   Gray P.C., Boss E., Prochaska J.X., Kerner H.R., Begouen-Demeaux, C., Lehahn Y. The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. Oceanography DOI: [10.5670/oceanog.2024.511](www.doi.org/10.5670/oceanog.2024.511)
 17.   Gray P.C., Sayvelev I., Cassar N., Levy M., Boss E.S., Lehahn Y., Bourdin G., Smith K.A., Windle A., Gronniger J., Floge S., Hunt D.E., Silsbe G., Johnson Z.I, Johnston D.W. (2024) Evidence for kilometer scale biophysical features at the Gulf Stream front. JGR: Oceans DOI: 10.1029/2023JC020526 
 16.   Bedford C., Rampe E., Thorpe M., Ewing R.,Mason K., Horgan B., Rudolph A., Lapotre M., Sinha P., Nachon M., Champion E., Berger L., Reid E., Gray P.C. (2024)  The Geochemical and Mineralogical Signature of Glaciovolcanism Near Þórisjökull, Iceland, and its Implications for Glaciovolcanism on Mars. JGR: Planets DOI: 10.1029/2023JE008261
 15. Gronniger J., Gray P.C., Niebergall A.K., Johnson Z.I., Hunt D.E. (2023) Gulf Stream frontal eddy harbors a unique microbiome relative to surrounding waters. PLoS ONE. DOI: 10.1371/journal.pone.0293334
@@ -26,3 +30,4 @@ redirect_from:
 3.  Gray, P.C., Bierlich, K.C., Mantell, S.A., Goldbogen, J.A., Johnston, D.W. (2019) Drones and Convolutional Neural Networks Facilitate Automated and Accurate Cetacean Species Identification and Photogrammetry. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13246
 2.  Gray, P.C., Fleishman, A.B., Klein, D.J., McKown, M.W., Bézy, V.S., Lohmann, K.J., Johnston, D.W. (2018) A Convolutional Neural Network for Detecting Sea Turtles in Drone Imagery. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13132
 1.  Gray, P.C., Ridge, J.T., Poulin, S.K., Seymour, A.C., Schwantes, A.M., Swenson, J.J., Johnston, D.W. (2018) Integrating Drone Imagery into High Resolution Satellite Remote Sensing Assessments of Estuarine Environments. Remote Sensing. DOI: 10.3390/rs10081257
+{: reversed="reversed"}
