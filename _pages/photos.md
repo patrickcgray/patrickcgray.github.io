@@ -3,7 +3,6 @@ permalink: /photos/
 title: "Fieldwork Photos"
 author_profile: true
 redirect_from: 
-  - /photos/
   - /photos.html
 ---
 

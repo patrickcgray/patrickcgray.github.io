@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: right; padding: 10px 10px 10px 10px;" src="http://patrickcgray.github.io/images/LC08_AfterFlorence_smaller.jpg" width=125>
+<img style="float: right; padding: 10px 10px 10px 10px;" src="http://patrickcgray.github.io/images/LC08_AfterFlorence_smaller.jpg" width=165>
 
 I'm currently an Assistant Research Professor at the University of Maine's School of Marine Sciences. I work at the intersection of remote sensing, data science, and biological oceanography and lean on machine learning and scientific computing tools for parsing large satellite, drone, and in-situ oceanographic datasets. My work is often a combination of seagoing observations, satellite remote sensing, and lab-based analysis. Themes of my work at the moment include:
 
