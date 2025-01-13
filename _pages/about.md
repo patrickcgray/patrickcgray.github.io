@@ -9,7 +9,7 @@ redirect_from:
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="http://patrickcgray.github.io/images/LC08_AfterFlorence_smaller.jpg" width=165>
 
-I'm currently an Assistant Research Professor at the University of Maine's School of Marine Sciences. I'm broadly interested in biological oceanography and marine ecology (from viruses to whales) as well as applied and fundamental ocean optics. My work is often a combination of seagoing observations, satellite remote sensing, and lab-based analysis, all with a strong computational dimension. Some themes of my work at the moment include:
+I'm currently an Assistant Research Professor at the University of Maine's School of Marine Sciences. I'm interested in biological oceanography and marine ecology (from viruses to whales) as well as applied and fundamental ocean optics within a broader Earth system science framework. My work is often a combination of seagoing observations, satellite remote sensing, and lab-based analysis - all with a strong computational dimension. Some themes of my work at the moment include:
 
 * retreiving marine particle properties from ocean color; including the use of polarization and spatiotemporal patterns to add more information to the inversion
 * investigating optics of oceans on other worlds and what optical signals might constitue a biosignature on Enceladus or Europa

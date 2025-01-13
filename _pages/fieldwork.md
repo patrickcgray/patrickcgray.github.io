@@ -34,15 +34,15 @@ redirect_from:
 **Field Experience**
 
 Cruises:
-* **S/V Tara June 19 - July 16 2024**: Tara Europa Expedition (oceanographic engineer: optical inline with 10+ instruments, aerosol sampling, daily CTD ops, zooplankton net tows) 
-* **R/V Ira C June 27th, 2023**: Ocean Optics Calibration and Validation Cruise (TA)
-* **R/V Shearwater March 7-11 2022**: Turbulent microstructure of the Gulf Stream's North Wall (winch ops, filtering, radiometry, optical flow through) 
-* **R/V Shearwater Jan 31-Feb 5 2022**: Turbulent microstructure of the Gulf Stream's North Wall (winch ops, sampling, general support) 
-* **R/V Shearwater September 4-9 2021**: Biophysical interactions in the Gulf Stream (Chief Scientist)
-* **R/V Shearwater August 24-29 2021**: Turbulent microstructure of the Gulf Stream's North Wall (drone operations and general support) 
-* **R/V Ira C August 4th, 2021**: Ocean Optics Calibration and Validation Cruise (member)
-* **R/V Barber April 27th 2021**: Gulf Stream Front Drone Surveys (Chief Scientist) 
-* **R/V Laurence M. Gould February 13 - March 23 2019**: NSF research cruise to the Western Antarctic Peninsula flying drones to study cetaceans and map sea ice (drone pilot/analyst)
+* **S/V Tara; June 19-July 16 2024**: Tara Europa Expedition (oceanographic engineer: optical inline with 10+ instruments, aerosol sampling, daily CTD ops, zooplankton net tows) 
+* **R/V Ira; C June 27th, 2023**: Ocean Optics Calibration and Validation Cruise (TA)
+* **R/V Shearwater; March 7-11 2022**: Turbulent microstructure of the Gulf Stream's North Wall (winch ops, filtering, radiometry, optical flow through) 
+* **R/V Shearwater; Jan 31-Feb 5 2022**: Turbulent microstructure of the Gulf Stream's North Wall (winch ops, sampling, general support) 
+* **R/V Shearwater; September 4-9 2021**: Biophysical interactions in the Gulf Stream (Chief Scientist)
+* **R/V Shearwater; August 24-29 2021**: Turbulent microstructure of the Gulf Stream's North Wall (drone operations and general support) 
+* **R/V Ira C; August 4th, 2021**: Ocean Optics Calibration and Validation Cruise (member)
+* **R/V Barber; April 27th 2021**: Gulf Stream Front Drone Surveys (Chief Scientist) 
+* **R/V Laurence M. Gould; February 13-March 23 2019**: NSF research cruise to the Western Antarctic Peninsula flying drones to study cetaceans and map sea ice (drone pilot/analyst)
 
 Other:
 * Numerous (>10) 1-3 day field work excursions to conduct drone surveys in eastern North Carolina beach and coastal forest environments for various projects (pilot/analyst 2017-2019)
