@@ -11,7 +11,7 @@ redirect_from:
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-19.   **Gray P.C.**, Boss E., Bourdin G., Mission Microbiome AtlantECO, Tara Pacific Consortium,  Lehahn Y., (2025) Emergent patterns of patchiness reflect decoupling between ocean physics and biology. In press Nature Communications. BioRxiv: [DOI](https://www.doi.org/10.1101/2024.05.24.595779): 10.1101/2024.05.24.595779 [in press] 
+19.   **Gray P.C.**, Boss E., Bourdin G., Mission Microbiome AtlantECO, Tara Pacific Consortium,  Lehahn Y., (2025) Emergent patterns of patchiness differ between physical and planktonic properties in the ocean. Nature Communications [DOI](https://doi.org/10.1038/s41467-025-56794-x): 10.1038/s41467-025-56794-x [PDF](/files/2025_gray_NatureComms.pdf) 
 
 18.   **Gray P.C.**, Boss E., Prochaska J.X., Kerner H.R., Begouen-Demeaux, C., Lehahn Y. (2024) The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. Oceanography [DOI](https://www.doi.org/10.5670/oceanog.2024.511): 10.5670/oceanog.2024.511 [PDF](/files/2024_gray_oceanography.pdf)
 
